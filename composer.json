@@ -26,5 +26,6 @@
             "Victoire\\Widget\\HtmlBundle": ""
         }
     },
-    "target-dir": "Victoire/Widget/HtmlBundle"
+    "target-dir": "Victoire/Widget/HtmlBundle",
+    "minimum-stability": "dev"
 }

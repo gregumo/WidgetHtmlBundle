@@ -4310,12 +4310,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "8881221244e82d659f8efff5ca68e7336907c4ba"
+                "reference": "d8c964cae962d289caffd441513e702eb2db849d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/8881221244e82d659f8efff5ca68e7336907c4ba",
-                "reference": "8881221244e82d659f8efff5ca68e7336907c4ba",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/d8c964cae962d289caffd441513e702eb2db849d",
+                "reference": "d8c964cae962d289caffd441513e702eb2db849d",
                 "shasum": ""
             },
             "require": {
@@ -4439,7 +4439,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2017-02-28 13:13:45"
+            "time": "2017-02-28 14:10:03"
         },
         {
             "name": "troopers/alertify-bundle",
