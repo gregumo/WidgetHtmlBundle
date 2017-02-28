@@ -1,4 +1,4 @@
 dependencies:
   pre:
-    - composer install --prefer-dist
+    - composer install
     - cp vendor/victoire/victoire/circle.yml circle.yml
