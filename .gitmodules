@@ -1,4 +1,0 @@
-[submodule "VictoireTestSuite"]
-	path = VictoireTestSuite
-	url = https://github.com/gregumo/VictoireTestSuite
-	branch = master
