@@ -70,7 +70,7 @@
                 "translatable",
                 "translation"
             ],
-            "time": "2016-08-05 18:13:58"
+            "time": "2016-08-05T18:13:58+00:00"
         },
         {
             "name": "behat/transliterator",
@@ -114,7 +114,7 @@
                 "slug",
                 "transliterator"
             ],
-            "time": "2016-10-21 08:46:05"
+            "time": "2016-10-21T08:46:05+00:00"
         },
         {
             "name": "doctrine/annotations",
@@ -519,7 +519,7 @@
                 "persistence",
                 "queryobject"
             ],
-            "time": "2017-02-16 19:16:41"
+            "time": "2017-02-16T19:16:41+00:00"
         },
         {
             "name": "doctrine/doctrine-bundle",
@@ -600,7 +600,7 @@
                 "orm",
                 "persistence"
             ],
-            "time": "2017-02-23 13:22:14"
+            "time": "2017-02-23T13:22:14+00:00"
         },
         {
             "name": "doctrine/doctrine-cache-bundle",
@@ -806,7 +806,7 @@
                 "migrations",
                 "schema"
             ],
-            "time": "2016-12-05 18:36:37"
+            "time": "2016-12-05T18:36:37+00:00"
         },
         {
             "name": "doctrine/inflector",
@@ -927,7 +927,7 @@
                 "constructor",
                 "instantiate"
             ],
-            "time": "2017-02-16 16:15:51"
+            "time": "2017-02-16T16:15:51+00:00"
         },
         {
             "name": "doctrine/lexer",
@@ -989,12 +989,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/migrations.git",
-                "reference": "e46858e487cba3df09ed3305612b0179da2fe8cf"
+                "reference": "d7101c827c8dbf0f05767c62f834e50f62d26b45"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/migrations/zipball/e46858e487cba3df09ed3305612b0179da2fe8cf",
-                "reference": "e46858e487cba3df09ed3305612b0179da2fe8cf",
+                "url": "https://api.github.com/repos/doctrine/migrations/zipball/d7101c827c8dbf0f05767c62f834e50f62d26b45",
+                "reference": "d7101c827c8dbf0f05767c62f834e50f62d26b45",
                 "shasum": ""
             },
             "require": {
@@ -1055,7 +1055,7 @@
                 "database",
                 "migrations"
             ],
-            "time": "2017-02-14 11:16:09"
+            "time": "2017-03-01T08:40:41+00:00"
         },
         {
             "name": "doctrine/orm",
@@ -1191,7 +1191,7 @@
                 "javascript",
                 "routing"
             ],
-            "time": "2016-11-26 12:01:27"
+            "time": "2016-11-26T12:01:27+00:00"
         },
         {
             "name": "friendsofsymfony/user-bundle",
@@ -1199,12 +1199,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfSymfony/FOSUserBundle.git",
-                "reference": "779ef8c1242d81fd6fe9587bab681d12dc0f18f7"
+                "reference": "0d70c918e79ad4108f2d78741cae645408c27f6d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/779ef8c1242d81fd6fe9587bab681d12dc0f18f7",
-                "reference": "779ef8c1242d81fd6fe9587bab681d12dc0f18f7",
+                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/0d70c918e79ad4108f2d78741cae645408c27f6d",
+                "reference": "0d70c918e79ad4108f2d78741cae645408c27f6d",
                 "shasum": ""
             },
             "require": {
@@ -1268,7 +1268,7 @@
             "keywords": [
                 "User management"
             ],
-            "time": "2017-02-28 11:27:33"
+            "time": "2017-03-01T13:37:05+00:00"
         },
         {
             "name": "friendsofvictoire/button-widget",
@@ -1372,12 +1372,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/fzaninotto/Faker.git",
-                "reference": "a2dec96198bb146ffead806700074b0ec8d07f2f"
+                "reference": "24c140e9e25b0af0e0d772f1964685971efbf64d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/a2dec96198bb146ffead806700074b0ec8d07f2f",
-                "reference": "a2dec96198bb146ffead806700074b0ec8d07f2f",
+                "url": "https://api.github.com/repos/fzaninotto/Faker/zipball/24c140e9e25b0af0e0d772f1964685971efbf64d",
+                "reference": "24c140e9e25b0af0e0d772f1964685971efbf64d",
                 "shasum": ""
             },
             "require": {
@@ -1414,7 +1414,7 @@
                 "faker",
                 "fixtures"
             ],
-            "time": "2017-02-01 09:18:35"
+            "time": "2017-03-01T16:12:18+00:00"
         },
         {
             "name": "gedmo/doctrine-extensions",
@@ -1492,7 +1492,7 @@
                 "tree",
                 "uploadable"
             ],
-            "time": "2017-02-24 20:03:45"
+            "time": "2017-02-24T20:03:45+00:00"
         },
         {
             "name": "imagine/imagine",
@@ -1600,7 +1600,7 @@
             "keywords": [
                 "parameters management"
             ],
-            "time": "2015-11-10 17:04:01"
+            "time": "2015-11-10T17:04:01+00:00"
         },
         {
             "name": "infinite-networks/form-bundle",
@@ -1656,7 +1656,7 @@
                 }
             ],
             "description": "A collection of useful form types and extensions for Symfony2",
-            "time": "2017-02-14 21:57:11"
+            "time": "2017-02-14T21:57:11+00:00"
         },
         {
             "name": "ircmaxell/password-compat",
@@ -1751,7 +1751,7 @@
                 "highlight",
                 "sql"
             ],
-            "time": "2015-08-30 16:36:01"
+            "time": "2015-08-30T16:36:01+00:00"
         },
         {
             "name": "jms/aop-bundle",
@@ -1918,7 +1918,7 @@
                 "annotations",
                 "dependency injection"
             ],
-            "time": "2016-12-14 12:33:44"
+            "time": "2016-12-14T12:33:44+00:00"
         },
         {
             "name": "jms/metadata",
@@ -2004,7 +2004,7 @@
                 "Apache2"
             ],
             "description": "A library for easily creating recursive-descent parsers.",
-            "time": "2014-07-08 16:40:41"
+            "time": "2014-07-08T16:40:41+00:00"
         },
         {
             "name": "jms/serializer",
@@ -2080,7 +2080,7 @@
                 "serialization",
                 "xml"
             ],
-            "time": "2017-02-14 14:35:22"
+            "time": "2017-02-14T14:35:22+00:00"
         },
         {
             "name": "jms/serializer-bundle",
@@ -2152,7 +2152,7 @@
                 "serialization",
                 "xml"
             ],
-            "time": "2017-02-22 16:15:59"
+            "time": "2017-02-22T16:15:59+00:00"
         },
         {
             "name": "jms/translation-bundle",
@@ -2222,7 +2222,7 @@
                 "ui",
                 "webinterface"
             ],
-            "time": "2016-10-11 15:07:43"
+            "time": "2016-10-11T15:07:43+00:00"
         },
         {
             "name": "knplabs/doctrine-behaviors",
@@ -2288,7 +2288,7 @@
                 "translatable",
                 "tree"
             ],
-            "time": "2016-11-26 12:36:06"
+            "time": "2016-11-26T12:36:06+00:00"
         },
         {
             "name": "knplabs/gaufrette",
@@ -2437,7 +2437,7 @@
                 "menu",
                 "tree"
             ],
-            "time": "2016-09-22 07:36:19"
+            "time": "2016-09-22T07:36:19+00:00"
         },
         {
             "name": "knplabs/knp-menu-bundle",
@@ -2494,7 +2494,7 @@
             "keywords": [
                 "menu"
             ],
-            "time": "2016-11-28 00:01:40"
+            "time": "2016-11-28T00:01:40+00:00"
         },
         {
             "name": "kriswallsmith/assetic",
@@ -2571,7 +2571,7 @@
                 "compression",
                 "minification"
             ],
-            "time": "2016-11-11 18:43:20"
+            "time": "2016-11-11T18:43:20+00:00"
         },
         {
             "name": "liip/imagine-bundle",
@@ -2735,7 +2735,7 @@
                 "logging",
                 "psr-3"
             ],
-            "time": "2017-01-11 16:17:39"
+            "time": "2017-01-11T16:17:39+00:00"
         },
         {
             "name": "nelmio/alice",
@@ -2798,7 +2798,7 @@
                 "orm",
                 "test"
             ],
-            "time": "2016-11-07 01:39:58"
+            "time": "2016-11-07T01:39:58+00:00"
         },
         {
             "name": "nikic/php-parser",
@@ -2849,7 +2849,7 @@
                 "parser",
                 "php"
             ],
-            "time": "2016-09-16 12:04:44"
+            "time": "2016-09-16T12:04:44+00:00"
         },
         {
             "name": "ocramius/package-versions",
@@ -2964,7 +2964,7 @@
                 "proxy pattern",
                 "service proxies"
             ],
-            "time": "2016-12-24 14:57:15"
+            "time": "2016-12-24T14:57:15+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -3160,7 +3160,7 @@
                 "predis",
                 "redis"
             ],
-            "time": "2016-11-22 14:32:30"
+            "time": "2016-11-22T14:32:30+00:00"
         },
         {
             "name": "psr/log",
@@ -3259,7 +3259,7 @@
                 "configuration",
                 "distribution"
             ],
-            "time": "2017-01-10 14:58:45"
+            "time": "2017-01-10T14:58:45+00:00"
         },
         {
             "name": "sensio/framework-extra-bundle",
@@ -3329,7 +3329,7 @@
                 "annotations",
                 "controllers"
             ],
-            "time": "2017-02-15 06:52:30"
+            "time": "2017-02-15T06:52:30+00:00"
         },
         {
             "name": "sensio/generator-bundle",
@@ -3377,7 +3377,7 @@
                 }
             ],
             "description": "This bundle generates code for you",
-            "time": "2015-05-05 01:52:20"
+            "time": "2015-05-05T01:52:20+00:00"
         },
         {
             "name": "sensiolabs/security-checker",
@@ -3421,7 +3421,7 @@
                 }
             ],
             "description": "A security checker for your composer.lock",
-            "time": "2017-02-18 17:53:25"
+            "time": "2017-02-18T17:53:25+00:00"
         },
         {
             "name": "snc/redis-bundle",
@@ -3486,7 +3486,7 @@
                 "redis",
                 "symfony"
             ],
-            "time": "2017-02-16 12:02:10"
+            "time": "2017-02-16T12:02:10+00:00"
         },
         {
             "name": "stof/doctrine-extensions-bundle",
@@ -3547,7 +3547,7 @@
                 "translatable",
                 "tree"
             ],
-            "time": "2017-01-13 18:32:32"
+            "time": "2017-01-13T18:32:32+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -3601,7 +3601,7 @@
                 "mail",
                 "mailer"
             ],
-            "time": "2017-02-24 19:52:51"
+            "time": "2017-02-24T19:52:51+00:00"
         },
         {
             "name": "symfony/assetic-bundle",
@@ -3671,7 +3671,7 @@
                 "compression",
                 "minification"
             ],
-            "time": "2016-11-22 11:42:57"
+            "time": "2016-11-22T11:42:57+00:00"
         },
         {
             "name": "symfony/monolog-bundle",
@@ -3731,7 +3731,7 @@
                 "log",
                 "logging"
             ],
-            "time": "2017-01-02 19:04:26"
+            "time": "2017-01-02T19:04:26+00:00"
         },
         {
             "name": "symfony/polyfill-apcu",
@@ -3842,7 +3842,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2016-11-14 01:06:16"
+            "time": "2016-11-14T01:06:16+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -4243,7 +4243,7 @@
             ],
             "description": "Symfony Security Component - ACL (Access Control List)",
             "homepage": "https://symfony.com",
-            "time": "2015-12-28 09:39:46"
+            "time": "2015-12-28T09:39:46+00:00"
         },
         {
             "name": "symfony/swiftmailer-bundle",
@@ -4302,7 +4302,7 @@
             ],
             "description": "Symfony SwiftmailerBundle",
             "homepage": "http://symfony.com",
-            "time": "2017-02-23 15:49:01"
+            "time": "2017-02-23T15:49:01+00:00"
         },
         {
             "name": "symfony/symfony",
@@ -4439,7 +4439,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2017-02-28 14:10:03"
+            "time": "2017-02-28T14:10:03+00:00"
         },
         {
             "name": "troopers/alertify-bundle",
@@ -4601,7 +4601,7 @@
                 "i18n",
                 "text"
             ],
-            "time": "2017-01-09 14:44:40"
+            "time": "2017-01-09T14:44:40+00:00"
         },
         {
             "name": "twig/twig",
@@ -4781,7 +4781,7 @@
                 "victoire",
                 "webstation"
             ],
-            "time": "2016-12-07 13:37:59"
+            "time": "2016-12-07T13:37:59+00:00"
         },
         {
             "name": "willdurand/js-translation-bundle",
@@ -4844,7 +4844,7 @@
                 "symfony",
                 "translation"
             ],
-            "time": "2017-02-13 14:50:50"
+            "time": "2017-02-13T14:50:50+00:00"
         },
         {
             "name": "willdurand/jsonp-callback-validator",
@@ -4937,7 +4937,7 @@
                 "code",
                 "zf2"
             ],
-            "time": "2017-01-23 23:34:59"
+            "time": "2017-01-23T23:34:59+00:00"
         },
         {
             "name": "zendframework/zend-eventmanager",
@@ -4991,7 +4991,7 @@
                 "events",
                 "zf2"
             ],
-            "time": "2016-12-19 21:48:17"
+            "time": "2016-12-19T21:48:17+00:00"
         }
     ],
     "packages-dev": [],
