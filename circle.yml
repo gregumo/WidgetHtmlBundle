@@ -10,7 +10,7 @@ machine:
     version: 7.1.0
 
 checkout:
-  pre:
+  post:
     - git submodule sync
     - git submodule update --init
     - mv VictoireTestSuite/circle.yml circle.yml
