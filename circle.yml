@@ -1,1 +1,29 @@
-circle/circle.yml
+machine:
+  timezone:
+    Europe/Paris
+  hosts:
+    fr.victoire.io: 127.0.0.1
+    en.victoire.io: 127.0.0.1
+  services:
+    - redis
+  php:
+    version: 7.1.0
+
+checkout:
+  post:
+    - git submodule sync
+    - git submodule update --init
+
+dependencies:
+  override:
+    - sh VictoireTestSuite/dependencies.sh
+  cache_directories:
+    - ~/.composer/cache
+
+test:
+  override:
+    - sh VictoireTestSuite/test.sh
+
+general:
+  artifacts:
+    - "fails"
