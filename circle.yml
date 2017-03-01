@@ -1,15 +1,5 @@
-machine:
-  timezone:
-    Europe/Paris
-  hosts:
-    fr.victoire.io: 127.0.0.1
-    en.victoire.io: 127.0.0.1
-  services:
-    - redis
-  php:
-    version: 7.1.0
-
-dependencies:
+checkout:
   pre:
-    - composer install
-    - cp vendor/victoire/victoire/circle.yml circle.yml
+    - git submodule sync
+    - git submodule update --init
+    - mv VictoireTestSuite/circle.yml circle.yml
