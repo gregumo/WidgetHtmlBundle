@@ -16,15 +16,15 @@ checkout:
 
 dependencies:
   override:
-    - bash VictoireTestSuite/dependencies.sh widget
+    - bash VictoireTestSuite/dependencies.sh html-widget
   cache_directories:
     - ~/.composer/cache
 
 test:
   override:
-    - bash VictoireTestSuite/circle.sh widget:
+    - bash VictoireTestSuite/circle.sh html-widget:
         parallel: true
-    - bash VictoireTestSuite/test.sh widget
+    - bash VictoireTestSuite/test.sh html-widget
 
 general:
   artifacts:
