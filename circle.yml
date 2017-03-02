@@ -16,13 +16,15 @@ checkout:
 
 dependencies:
   override:
-    - sh VictoireTestSuite/dependencies.sh
+    - bash VictoireTestSuite/dependencies.sh
   cache_directories:
     - ~/.composer/cache
 
 test:
   override:
-    - sh VictoireTestSuite/test.sh
+    - bash VictoireTestSuite/circle.sh Tests/Features:
+        parallel: true
+    - bash VictoireTestSuite/test.sh
 
 general:
   artifacts:
