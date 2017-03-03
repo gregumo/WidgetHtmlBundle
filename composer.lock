@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "ec6d8b1ecd9afcbe6b49ba7216514c96",
+    "content-hash": "5833575194266b4d68eab4adf03bd03f",
     "packages": [
         {
             "name": "a2lix/translation-form-bundle",
@@ -3964,13 +3964,13 @@
             "version": "2.2.x-dev",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Victoire/victoire.git",
-                "reference": "fa8e7627f7832cb99ef64c15c44558d580416001"
+                "url": "https://github.com/gregumo/victoire.git",
+                "reference": "9b4b2cb0d593ca7ac87748c7b988ca5832993426"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Victoire/victoire/zipball/fa8e7627f7832cb99ef64c15c44558d580416001",
-                "reference": "fa8e7627f7832cb99ef64c15c44558d580416001",
+                "url": "https://api.github.com/repos/gregumo/victoire/zipball/9b4b2cb0d593ca7ac87748c7b988ca5832993426",
+                "reference": "9b4b2cb0d593ca7ac87748c7b988ca5832993426",
                 "shasum": ""
             },
             "require": {
@@ -4033,7 +4033,6 @@
                     "Victoire\\Widget\\": "Tests/Functionnal/src/Victoire/Widget"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -4058,11 +4057,15 @@
             "description": "Victoire is a cms based on Symfony framework",
             "homepage": "http://victoire.io",
             "keywords": [
-                "cms",
-                "symfony",
-                "victoire"
+                "CMS",
+                "Symfony",
+                "Victoire"
             ],
-            "time": "2017-02-28 10:31:57"
+            "support": {
+                "email": "contact@victoire.io",
+                "source": "https://github.com/gregumo/victoire/tree/2.2.21"
+            },
+            "time": "2017-03-03 09:38:47"
         },
         {
             "name": "willdurand/js-translation-bundle",
